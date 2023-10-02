@@ -8,5 +8,7 @@ public class Main {
         arr1[0] = arr2[0];
         System.out.println(arr2[0]);
 
+        System.out.println(123123);
+        System.out.println(321321);
     }
 }
